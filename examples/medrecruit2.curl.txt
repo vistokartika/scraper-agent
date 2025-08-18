@@ -1,0 +1,11 @@
+curl -X 'POST' \
+  'http://localhost:8000/chat' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "url": "https://medrecruit.medworld.com/jobs/list?location=New+South+Wales&page=1",
+  "user_prompt": "Filter data that have pay higher than $2,000 per day only.",
+  "max_pages": 3,
+  "max_iterations": 3,
+  "session_id": "1238"
+}'

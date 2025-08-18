@@ -1,0 +1,811 @@
+{
+  "text": "Scraped 114 items from https://medrecruit.medworld.com/jobs/list?location=New+South+Wales&page=1.",
+  "results": [
+    {
+      "role": "Resident Medical Officer",
+      "location": "Matiland, New South Wales AU",
+      "pay": 140,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Bulli, New South Wales AU",
+      "pay": 180,
+      "name": "Rehabilitation Medicine",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Coffs Harbour, New South Wales AU",
+      "pay": 140,
+      "name": "Geriatric Medicine",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Matiland, New South Wales AU",
+      "pay": 140,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Bulli, New South Wales AU",
+      "pay": 180,
+      "name": "Rehabilitation Medicine",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Coffs Harbour, New South Wales AU",
+      "pay": 140,
+      "name": "Geriatric Medicine",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 180,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Ballina, New South Wales AU",
+      "pay": 145,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wagga Wagga, New South Wales AU",
+      "pay": 140,
+      "name": "General Medicine / Physician",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wagga Wagga, New South Wales AU",
+      "pay": 150,
+      "name": "Psychiatry",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Wagga Wagga, New South Wales AU",
+      "pay": 140,
+      "name": "Surgery",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wagga Wagga, New South Wales AU",
+      "pay": 1800,
+      "name": "Obstetrics and Gynaecology",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Cudgen, New South Wales AU",
+      "pay": 130,
+      "name": "Paediatrics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "NARRABRI, New South Wales AU",
+      "pay": 2750,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Windsor, New South Wales AU",
+      "pay": 140,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Broken Hill, New South Wales AU",
+      "pay": 200,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Kogarah, New South Wales AU",
+      "pay": 180,
+      "name": "General Medicine / Physician",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Byron Central, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "SMO/MOSS",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Ballina, New South Wales AU",
+      "pay": 130,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wagga Wagga, New South Wales AU",
+      "pay": 140,
+      "name": "General Medicine / Physician",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wagga Wagga, New South Wales AU",
+      "pay": 150,
+      "name": "Psychiatry",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Wagga Wagga, New South Wales AU",
+      "pay": 140,
+      "name": "Surgery",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wagga Wagga, New South Wales AU",
+      "pay": 1800,
+      "name": "Obstetrics and Gynaecology",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Cudgen, New South Wales AU",
+      "pay": 130,
+      "name": "Paediatrics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "NARRABRI, New South Wales AU",
+      "pay": 2750,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Windsor, New South Wales AU",
+      "pay": 140,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Broken Hill, New South Wales AU",
+      "pay": 200,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Kogarah, New South Wales AU",
+      "pay": 180,
+      "name": "General Medicine / Physician",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Byron Central, New South Wales AU",
+      "pay": 160,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "SMO/MOSS",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Griffith, New South Wales AU",
+      "pay": 150,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Griffith, New South Wales AU",
+      "pay": 3000,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Goulburn, New South Wales AU",
+      "pay": 160,
+      "name": "General Medicine / Physician",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wollongong, New South Wales AU",
+      "pay": 150,
+      "name": "Intensive Care Medicine",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wollongong, New South Wales AU",
+      "pay": 150,
+      "name": "Intensive Care Medicine",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Armidale, New South Wales AU",
+      "pay": 240,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Wahroonga, New South Wales AU",
+      "pay": 100,
+      "name": "General Medicine / Physician",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Windsor, New South Wales AU",
+      "pay": 140,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Griffith, New South Wales AU",
+      "pay": 150,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Griffith, New South Wales AU",
+      "pay": 3000,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Goulburn, New South Wales AU",
+      "pay": 160,
+      "name": "General Medicine / Physician",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wollongong, New South Wales AU",
+      "pay": 150,
+      "name": "Intensive Care Medicine",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Wollongong, New South Wales AU",
+      "pay": 150,
+      "name": "Intensive Care Medicine",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Registrar",
+      "location": "Armidale, New South Wales AU",
+      "pay": 240,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Wahroonga, New South Wales AU",
+      "pay": 100,
+      "name": "General Medicine / Physician",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics",
+      "error": false
+    },
+    {
+      "role": "Resident Medical Officer",
+      "location": "Windsor, New South Wales AU",
+      "pay": 140,
+      "name": "Emergency Medicine (ED)",
+      "error": false
+    }
+  ],
+  "session_id": "1238",
+  "schema": {
+    "role": "str",
+    "location": "str",
+    "pay": "float",
+    "name": "str"
+  },
+  "visited_count": 3
+}

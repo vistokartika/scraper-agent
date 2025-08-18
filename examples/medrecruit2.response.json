@@ -1,0 +1,85 @@
+{
+  "text": "Filtered items to include only those with pay higher than $2,000 per day, resulting in 12 items.",
+  "results": [
+    {
+      "role": "Specialist Consultant",
+      "location": "NARRABRI, New South Wales AU",
+      "pay": 2750,
+      "name": "GP - Emergency Medicine / SMO"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO"
+    },
+    {
+      "role": "SMO/MOSS",
+      "location": "Glen Innes, New South Wales AU",
+      "pay": 2100,
+      "name": "GP - Emergency Medicine / SMO"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Griffith, New South Wales AU",
+      "pay": 3000,
+      "name": "Emergency Medicine (ED)"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics"
+    },
+    {
+      "role": "Specialist Consultant",
+      "location": "Nowra, New South Wales AU",
+      "pay": 4000,
+      "name": "Anaesthetics"
+    }
+  ],
+  "session_id": "1238",
+  "schema": {
+    "role": "str",
+    "location": "str",
+    "pay": "float",
+    "name": "str"
+  },
+  "visited_count": 0
+}

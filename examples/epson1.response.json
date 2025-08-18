@@ -1,0 +1,241 @@
+{
+  "text": "Scraped 25 items from https://support.hp.com/us-en/drivers/printers.",
+  "results": [
+    {
+      "id": "HP DeskJet 2700e All-in-One series",
+      "name": "HP DeskJet 2700e All-in-One series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=2100187844&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP ENVY 5000 All-in-One Printer series",
+      "name": "HP ENVY 5000 All-in-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=14095644&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP Laser 100 Printer series",
+      "name": "HP Laser 100 Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=24494339&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP DeskJet 4100e All-in-One series",
+      "name": "HP DeskJet 4100e All-in-One series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=2100187845&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP ENVY 6000 All-in-One Printer series",
+      "name": "HP ENVY 6000 All-in-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=29256672&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP LaserJet 1020 Printer series",
+      "name": "HP LaserJet 1020 Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=439423&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP DeskJet Plus 4100 All-in-One series",
+      "name": "HP DeskJet Plus 4100 All-in-One series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=29378221&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP ENVY 6000e All-In-One Printer series",
+      "name": "HP ENVY 6000e All-In-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=2100187505&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP Laser MFP 130 Printer series",
+      "name": "HP Laser MFP 130 Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=24494378&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP DeskJet 2300 All-in-One Printer series",
+      "name": "HP DeskJet 2300 All-in-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=30268694&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP ENVY 6400e All-In-One Printer series",
+      "name": "HP ENVY 6400e All-In-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "/hp-pps-services/hub/navigation?h_client=s-a-r11839-1&h_product=2100178605&h_lang=en&h_cc=us&h_pagetype=s-002&jumpid=in_r11839_us/en/SWDLanding/TopProducts",
+      "release_date": "N/A",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-DeskJet-2700e-All-in-One-series",
+      "name": "HP DeskJet 2700e All-in-One series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/deskjet-2700e",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-ENVY-5000-All-in-One-Printer-series",
+      "name": "HP ENVY 5000 All-in-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/envy-5000",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-Laser-100-Printer-series",
+      "name": "HP Laser 100 Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/laser-100",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-DeskJet-4100e-All-in-One-series",
+      "name": "HP DeskJet 4100e All-in-One series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/deskjet-4100e",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-ENVY-6000-All-in-One-Printer-series",
+      "name": "HP ENVY 6000 All-in-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/envy-6000",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-LaserJet-1020-Printer-series",
+      "name": "HP LaserJet 1020 Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/laserjet-1020",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-DeskJet-Plus-4100-All-in-One-series",
+      "name": "HP DeskJet Plus 4100 All-in-One series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/deskjet-plus-4100",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-ENVY-6000e-All-In-One-Printer-series",
+      "name": "HP ENVY 6000e All-In-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/envy-6000e",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-Laser-MFP-130-Printer-series",
+      "name": "HP Laser MFP 130 Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/laser-mfp-130",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-DeskJet-2300-All-in-One-Printer-series",
+      "name": "HP DeskJet 2300 All-in-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/deskjet-2300",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-ENVY-6400e-All-In-One-Printer-series",
+      "name": "HP ENVY 6400e All-In-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/envy-6400e",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-LaserJet-Pro-MFP-M126-series",
+      "name": "HP LaserJet Pro MFP M126 series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/laserjet-pro-mfp-m126",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-DeskJet-2600-All-in-One-Printer-series",
+      "name": "HP DeskJet 2600 All-in-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/deskjet-2600",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    },
+    {
+      "id": "HP-ENVY-Photo-7800-All-in-One-Printer-series",
+      "name": "HP ENVY Photo 7800 All-in-One Printer series",
+      "version": "Latest",
+      "os": "Windows, macOS",
+      "url": "https://support.hp.com/us-en/drivers/printers/envy-photo-7800",
+      "release_date": "2023-01-01",
+      "support_status": "Supported"
+    }
+  ],
+  "session_id": "1240",
+  "schema": {
+    "id": "str",
+    "name": "str",
+    "version": "str",
+    "os": "str",
+    "url": "str",
+    "release_date": "str",
+    "support_status": "str"
+  },
+  "visited_count": 1
+}

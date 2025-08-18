@@ -1,0 +1,11 @@
+curl -X 'POST' \
+  'http://localhost:8000/chat' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "url": "https://support.hp.com/us-en/drivers/printers",
+  "user_prompt": "Find all printer driver details through the pages.",
+  "max_pages": 5,
+  "max_iterations": 5,
+  "session_id": "1240"
+}'
